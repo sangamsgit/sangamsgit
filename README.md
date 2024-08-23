@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sangamsgit intersted to develope projects and collaborate
+- 👋 Hi, I’m @sangamsgit interested to develope projects and collaborate
 - 👀 I’m interested in ... Web Development,Design,UX,Programming.
 - 🌱 I’m currently learning ... Angular and Typescript and React
 - 💞️ I’m looking to collaborate on ... Any Projects
