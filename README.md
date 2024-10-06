@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... Any Projects
 - 📫 How to reach me ... email me
 - 😄 Pronouns: ... Him/His
-- ⚡ Fun fact: ... A cloud weighs around a million tonnes.(https://www.sciencefocus.com/science/fun-facts)
+- ⚡ Fun fact: ...
+- ⚡ Sciene Fact A cloud weighs around a million tonnes.(https://www.sciencefocus.com/science/fun-facts)
 
 <!---
 sangamsgit/sangamsgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
